@@ -77,8 +77,8 @@ resolution times:
 
 2.4 **Disaster Recovery**:
 
-- **RTO**: Restoration of services within 4 hours.
-- **RPO**: Data restored to within 24 hours of the last backup (our database
+- **RTO**: Restoration of services within 1 business day.
+- **RPO**: Data restored to within 1 business day of the last backup (our database
   backups are made nightly).
 
 2.5 **Performance Disclaimer**:  
