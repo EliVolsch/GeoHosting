@@ -127,7 +127,7 @@ The SLA does not apply to:
 4.4 **Ownership and Portability**:
 
 - The Client retains full ownership of their data.
-- Upon termination, the Hosting Provider will provide the Client with a
+- If requested, upon termination, the Hosting Provider will provide the Client with a
   complete export of their data in a mutually agreed format within 30 days.
 
 4.5 **Indemnity**:  
@@ -139,13 +139,16 @@ systems.
 
 ## 5. Acceptable Use Policy and Right of Refusal/Termination
 
-5.1 **Acceptable Use Policy (AUP)**:  
+5.1 **Acceptable Use Policy (AUP)**
+
 The Client agrees to abide by GeoSpatialHosting's Acceptable Use Policy, which is incorporated herein by reference and may be updated from time to time without prior notice. The AUP strictly prohibits the use of GeoSpatialHosting's services for any illegal activities, distribution of malware, engagement in hacking attempts, spamming, intellectual property infringement, defamation, harassment, or any other activity deemed harmful or detrimental to GeoSpatialHosting or its users..
 
-5.2 **Right of Refusal and Termination**:  
+5.2 **Right of Refusal and Termination**
+
 GeoSpatialHosting reserves the absolute right, in its sole discretion, to refuse service to any potential client or to suspend or terminate services for any existing client found to be in violation of this SLA, including but not limited to the AUP. GeoSpatialHosting may take such action immediately and without prior notice in cases of severe violations, particularly those involving illegal activities or significant harm to GeoSpatialHosting's network or reputation. In the event of service termination due to a violation of this SLA, the Client shall not be entitled to any refund of fees paid. GeoSpatialHosting shall not be liable for any damages or losses incurred by the Client or any third party as a result of such suspension or termination.
 
-5.3 **Indemnification**:  
+5.3 **Indemnification**
+
 The Client agrees to indemnify, defend, and hold harmless GeoSpatialHosting, its officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from or in any way related to the Client's use of the services, content hosted by the Client, any breach of this SLA by the Client, or any act or omission of the Client.
 
 ---
@@ -188,7 +191,7 @@ in the appropriate column.
 | Hosting Provider (South Africa)  | Client                                     |
 |----------------------------------|--------------------------------------------|
 | ☐ Kartoza (Pty) Ltd              | [Client Name]                              |
-| Company Number: 2014/109067/07   |                                            |
+| Company Number: 2014/109067/07   | [Client tax Number:]                                           |
 | Registered Office:               |                                            |
 | 1st Floor, Block B, North Park,  | Client Address: [Client Address]           |
 | Black River Park, 2 Fir Street,  | Signature: [Signature]                     |
