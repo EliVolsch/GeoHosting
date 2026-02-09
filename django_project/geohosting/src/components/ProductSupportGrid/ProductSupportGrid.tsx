@@ -103,7 +103,7 @@ const ProductSupportGrid = ({ product }) => {
     >
       <Card
         icon={FaGithub}
-        title="Download"
+        title="View Source Code"
         description={"The source code of " + product.name + " is freely available on GitHub"}
         buttonText="GitHub"
         descriptionMb="10"
